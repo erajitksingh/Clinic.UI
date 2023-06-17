@@ -1,6 +1,7 @@
+using Clinic.UI.Origination;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Clinic.UI.Origination.Controllers
+namespace Clinic.UI.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
